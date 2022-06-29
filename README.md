@@ -13,7 +13,7 @@
 ## Como utilizar esse projeto
 
 1. Instalar as dependências do projeto:
-No terminal com a pasta 'trabalho5' aberta, rode o seguinte comando para instalar as dependências do projeto.
+No terminal com a pasta 'trabalho5-iot-main' aberta, rode o seguinte comando para instalar as dependências do projeto.
   ```bash
      $npm install
   ```
