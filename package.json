@@ -1,0 +1,21 @@
+{
+  "name": "trabalho5",
+  "version": "1.0.0",
+  "description": "Trabalho 5 da disciplina de Sistemas Distribuídos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mqtt",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.8.4",
+    "jsonschema": "^1.2.6",
+    "mosca": "^2.8.3",
+    "mqtt": "^4.3.7"
+  }
+}
