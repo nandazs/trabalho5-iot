@@ -17,21 +17,20 @@ No terminal com a pasta 'trabalho5' aberta, rode o seguinte comando para instala
     ```bash
 	$npm install
 
-
 ### Para o Subscribe:
 
 Execute primeiro este arquivo:
     ```bash
-    $node sub
+    	$node sub
 
 ### Para o Publish:
 
 Execute em seguida este arquivo:
     ```bash
-    $node pub
+    	$node pub
 
 ### Para ver todas as cidades que tem no Firebase: 
 
 Executar o arquivo:
     ```bash
-    $node cities
+    	$node cities
