@@ -14,9 +14,9 @@
 
 1. Instalar as dependências do projeto:
 No terminal com a pasta 'trabalho5' aberta, rode o seguinte comando para instalar as dependências do projeto.
-    ```bash
-	$npm install
-    ```
+  ```bash
+     $npm install
+  ```
 
 ### Para o Subscribe:
 
@@ -28,13 +28,13 @@ Execute primeiro este arquivo:
 ### Para o Publish:
 
 Execute em seguida este arquivo:
-    ```bash
-    	$node pub
-    ```
+  ```bash
+     $node pub
+  ```
 
 ### Para ver todas as cidades que tem no Firebase: 
 
 Executar o arquivo:
-    ```bash
-    	$node cities
-    ```
+  ```bash
+     $node cities
+  ```
