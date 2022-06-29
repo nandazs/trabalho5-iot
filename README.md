@@ -21,9 +21,9 @@ No terminal com a pasta 'trabalho5' aberta, rode o seguinte comando para instala
 ### Para o Subscribe:
 
 Execute primeiro este arquivo:
-    ```bash
-    	$node sub
-    ```
+  ```bash
+     $node sub
+  ```
 
 ### Para o Publish:
 
